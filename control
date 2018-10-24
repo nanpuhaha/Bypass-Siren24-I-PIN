@@ -1,0 +1,10 @@
+Package: seo.jangwon.bypasssiren24i-pin
+Name: Bypass Siren24 I-PIN
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Siren24 아이핀 앱의 탈옥감지를 우회합니다.
+Maintainer: Jangwon Seo
+Author: Jangwon Seo
+Section: Tweaks
+
